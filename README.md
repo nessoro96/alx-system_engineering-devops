@@ -8,3 +8,4 @@ Task 8.Bye bye betty
 task 9.Bye bye My first directory
 task 10.Back to the future
 task 11.lists
+task 12.file type
